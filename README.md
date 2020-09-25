@@ -16,7 +16,7 @@ Mass defacer tool . Automatically deface 1500+ websites . And add your index.htm
  
  $apt upgrade -y (enter)
  
- $pkg install ruby -y (enter)
+
  
  $gem install toilet -y (enter)
  
@@ -28,13 +28,13 @@ Mass defacer tool . Automatically deface 1500+ websites . And add your index.htm
  
  $pkg install python2 -y (enter)
  
- $pkg install nano php -y (enter)
+
  
- $pip2 install mechanize (enter)
+
  
- $pip2 install --upgrade pip (enter)
+
  
- $pip2 install requets (enter)
+
 
 
     ##+|+ HOW TO RUN THE TOOLS +|+
